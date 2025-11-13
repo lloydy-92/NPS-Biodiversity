@@ -17,10 +17,10 @@ The analysis focuses on understanding the relationships between conservation sta
   
 ## Key Insights (Summary)
 > For full results, visualisations, and detailed discussion, open the Jupyter notebook *biodiversity.ipynb* in this repository.
-- Merged and cleaned two biodiversity datasets usings '*pandas*'.
+- Merged and cleaned two biodiversity datasets usings ```pandas```.
 - Filtered for species under active conservation (excluding '*No Intervention*').
 - Used grouping and aggregation to count at-risk species per category.
-- Visualised observations patterns using '*matplotlib*' and '*seaborn*'.
+- Visualised observations patterns using ```matplotlib``` and ```seaborn```.
 - Applied chi-square tests to determine significant differences between organism categories.
 
 ## Example Visualisations and Statistical Methods
