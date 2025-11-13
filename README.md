@@ -20,14 +20,10 @@ The analysis focuses on understanding the relationships between conservation sta
 - Merged and cleaned two biodiversity datasets usings ```pandas```.
 - Filtered for species under active conservation (excluding '*No Intervention*').
 - Used grouping and aggregation to count at-risk species per category.
-- Visualised observations patterns using ```matplotlib``` and ```seaborn```.
-- Applied chi-square tests to determine significant differences between organism categories.
-
-## Example Visualisations and Statistical Methods
-The notebook includes:
-- **Box plots**: Comparing observation counts by conservation status.
-- **Scatter plots**: Exploring correlations between abundance and protection level.
-- **Contingency tables, Chi-square test results**: Used to determine if protection status differs significantly across organism categories.
+- Visualised observations patterns using ```matplotlib``` and ```seaborn```. For example:
+  - **Box plots**: Comparing observation counts by conservation status.
+  - **Scatter plots**: Exploring correlations between abundance and protection level.
+- Generated contingency tables and applied chi-square tests to determine significant differences between organism categories.
 
 ## Tools & Libraries
 | Purpose | Libraries Used |
