@@ -83,3 +83,5 @@ Contributions, suggestions, and improvements are welcome and encouraged! If you 
 - National Park Service for making biodiversity data publicly available.
 - Codecademy Data Science Path for providing structured guidance on this project.
 - The open-source community for libraries like ```pandas```, ```matplotlib```, and ```seaborn```.
+---------------------------------------------------------------------------------------------------
+"*The greatest threat to our planet is the belief that someone else will save it.*" - Robert Swan
