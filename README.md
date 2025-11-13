@@ -22,7 +22,8 @@ The analysis focuses on understanding the relationships between conservation sta
 - Used grouping and aggregation to count at-risk species per category.
 - Visualised observations patterns using ```matplotlib``` and ```seaborn```. For example:
   - **Box plots**: Comparing observation counts by conservation status.
-  - **Scatter plots**: Exploring correlations between abundance and protection level.
+  - **Bar graphs**: Exploring correlations between species count and organism category, grouped by conservation status.
+  - **Heatmap**: Comparing chi-square significance values between all combinations of organism category pairs.
 - Generated contingency tables and applied chi-square tests to determine significant differences between organism categories.
 
 ## Tools & Libraries
