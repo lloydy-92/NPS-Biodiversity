@@ -61,7 +61,7 @@ NPS-Biodiversity/
 ├── data/
 │   ├── species_info.csv      # Dataset containing species metadata
 │   └── observations.csv      # Dataset containing park observation data
-├── requirements.txt          # Python dependencies (optional)
+├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 ```
 
